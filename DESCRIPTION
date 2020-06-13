@@ -1,0 +1,14 @@
+Package: mphnd
+Type: Package
+Title: Mean Position of Hits for Neglect Diagnosis
+Version: 0.1.0
+Author: Massimiliano Pastore [cre, aut], 
+         Ottavia M. Epifania [cre, aut], 
+         Alessio Toraldo [aut]
+Maintainer: Ottavia M. Epifania <otta.epifania@gmail.com>
+Description: By using the Mean Position of Hits (MPH) obtained from raw-data, 
+    statistically-founded diagnosis of neglect are provided, in the form of a 
+    *z*-score and a *p*-value.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
